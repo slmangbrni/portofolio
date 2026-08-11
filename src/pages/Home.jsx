@@ -16,7 +16,7 @@ const Home = () => {
             transition={{ duration: 0.5 }}
             className="greeting"
           >
-            Hello, I'm
+            Hello, I'm Salman Gibrani
           </motion.h4>
           <motion.h1
             initial={{ opacity: 0, y: 20 }}
