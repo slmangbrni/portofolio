@@ -34,7 +34,7 @@ const Home = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="role"
           >
-            AI | IoT | Database | Cyber Security
+            AI | IoT | Database 
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
