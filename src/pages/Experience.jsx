@@ -42,7 +42,7 @@ const experiences = [
     company: 'International Student Mobility (CAPEU)',
     date: 'April 2026 - Aug 2026',
     description: [
-      'Volunteer for the Consortium of Asia Pacific Education Units (CAPEU).'
+      'Volunteer for the Consortium of Asia Pacific Education Universities (CAPEU).'
     ],
     type: 'Volunteer',
   }
